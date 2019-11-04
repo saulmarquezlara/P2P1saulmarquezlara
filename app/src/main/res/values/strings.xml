@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P2P1saulmarquezlara</string>
+    <string name="rmasculino">Masculino</string>
+    <string name="rfemenino">Femenino</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="Letrero1">Numero num1</string>
+    <string name="Letrero2">Numero num2</string>
+    <string name="msuma">Suma</string>
+    <string name="mresta">Resta</string>
+    <string name="mmultiplicacion">Multiplicacion</string>
+    <string name="mdivision">Division</string>
+</resources>
